@@ -1,0 +1,17 @@
+digraph N{
+Konstantin->Anton
+Anton->Aleksey
+Aleksey->A
+Aleksey->Alena
+Anton->Grisha
+Grisha->Azamat
+Konstantin->Misha
+Misha->Kostadin
+Kostadin->Lena
+Misha->Sasha
+Sasha->Nika
+Nika->Nastya
+Nika->Nikita
+Sasha->Slava
+Slava->Zeynal
+}

@@ -1,0 +1,17 @@
+digraph TREE{
+Slava->Azamat
+Azamat->Aleksey
+Azamat->Grisha
+Grisha->Dima
+Dima->Daniil
+Grisha->Nastya
+Nastya->Kostadin
+Kostadin->Igor
+Kostadin->Lena
+Nastya->Sasha
+Sasha->Nika
+Nika->Nikita
+Sasha->Serega
+Slava->Zeynal
+Zeynal->Stanislav
+}
