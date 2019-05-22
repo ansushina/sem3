@@ -1,5 +1,5 @@
 
-CFLAGS := -std=c99 -Wall -Werror -pedantic -ggdb
+CFLAGS := -std=c99 -Wall -pedantic -ggdb
 
 app.exe : main.o io.o process.o
 	gcc -o app.exe main.o io.o process.o
