@@ -7,4 +7,3 @@ test:
   artifacts:
     paths: [report.txt.enc]
     when: always
-
