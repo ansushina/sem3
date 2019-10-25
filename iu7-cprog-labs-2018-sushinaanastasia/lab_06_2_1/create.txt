@@ -1,0 +1,4 @@
+
+gcc -std=c99 -Wall -Werror -pedantic -c main.c
+gcc -std=c99 -Wall -Werror -pedantic -c sum.c
+gcc -o app.exe sum.o main.o
